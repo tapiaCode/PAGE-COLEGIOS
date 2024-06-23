@@ -1,0 +1,28 @@
+.option { background-color: #c3e942; }
+.navbar-default.small .site-title h3 { color: #c2d67f; }
+.home-text h2 span { background-color: #c3e942; }
+.what-i-do { background-color: #c3e942; }
+.what-icon { color: #c2d67f; }
+.underline { background-color: #c3e942; }
+.about-link-1 { background-color: #c3e942; border: 3px solid rgb(0, 0, 0); }
+.about-link-2 { background-color: #c3e942; border: 3px solid rgb(0, 0, 0); }
+.about-link-1:hover { border: 3px solid #c3e942; }
+.about-link-2:hover { border: 3px solid #c3e942; }
+.work-counter { background-color: #c3e942; }
+.resume-details-part h3 { color: #c2d67f; }
+.resume-details-grid { border-left: 1px solid #c3e942; }
+.resume-details-grid h4 { color: #c2d67f; }
+.resume-icon { color: rgb(255, 255, 255); }
+#filters li span.active { background: #c3e942; }
+.overlay { background-color: rgba(0, 0, 0, 0.88); }
+.fancybox-skin { background: #c3e942; }
+.service-icon { color: #c2d67f; }
+.service-details::before { border-left: 2px solid #c3e942; border-top: 2px solid #c3e942; }
+.service-details:hover::before { border-left: 2px solid #c3e942; border-top: 2px solid #c3e942; }
+.fa-4x { color: #c2d67f; }
+#fade-quote-carousel.carousel .carousel-indicators > li { background-color: #c3e942; }
+.contact-row { background-color: #c3e942; }
+.navbar-default .navbar-nav > li > a:hover { color: #c2d67f; }
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover { background-color: transparent; color: #c2d67f !important; }
+.resume-part::before { background-color: #c3e942; }
+.contact-col { background-color: #c3e942; }
